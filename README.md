@@ -1,4 +1,4 @@
 # portfolio.github.io
 
 
-<a href='vk.com'>vk.com</a>
+<a href='http://vk.com'>vk.com</a>
